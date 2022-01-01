@@ -2,7 +2,7 @@
 Pong made for a GBA emulator in C
 
 #Instructions
-
+```
       ___         ___           ___           ___     
      /  /\       /  /\         /__/\         /  /\    
     /  /::\     /  /::\        \  \:\       /  /:/_   
@@ -79,4 +79,4 @@ To exit the game and return to the menu, press [SELECT] (backspace).
   \_____|______|_|  |_|_|    (_)
                                 
                                 
-(Have a crack at the impossible bot :D)
+(Have a crack at the impossible bot :D)```
