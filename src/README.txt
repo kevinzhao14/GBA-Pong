@@ -1,8 +1,3 @@
-# GBA-Pong
-Pong made for a GBA emulator in C
-
-#Instructions
-
       ___         ___           ___           ___     
      /  /\       /  /\         /__/\         /  /\    
     /  /::\     /  /::\        \  \:\       /  /:/_   
