@@ -3,7 +3,7 @@ Pong made for a GBA emulator in C
 
 [Live Demo (source code converted to JS)](https://kevi.nz/apps/pong/)
 
-#Instructions
+# Instructions
 ```
       ___         ___           ___           ___     
      /  /\       /  /\         /__/\         /  /\    
