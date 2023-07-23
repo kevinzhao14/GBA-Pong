@@ -1,6 +1,8 @@
 # GBA-Pong
 Pong made for a GBA emulator in C
 
+[Live Demo (source code converted to JS)](https://kevi.nz/apps/pong/)
+
 #Instructions
 ```
       ___         ___           ___           ___     
@@ -79,4 +81,5 @@ To exit the game and return to the menu, press [SELECT] (backspace).
   \_____|______|_|  |_|_|    (_)
                                 
                                 
-(Have a crack at the impossible bot :D)```
+(Have a crack at the impossible bot :D)
+```
